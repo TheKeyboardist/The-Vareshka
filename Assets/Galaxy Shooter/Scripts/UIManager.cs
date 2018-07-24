@@ -6,7 +6,7 @@ public class UIManager : MonoBehaviour
 {
     private void OnBeforeTransformParentChanged()
     {
-        
+        int s = 5;
     }
 
 
